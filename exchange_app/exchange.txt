@@ -1,0 +1,30 @@
+
+LOG:2021-05-19 23:47:28.292616,
+ - To exchange: 1000 CZK,
+ - To get:      39.25 EUR,
+ - rate: 0.03925, last update: Wed, 19 May 2021 00:00:01 +0000, next update: Thu, 20 May 2021 00:00:01 +0000
+
+LOG:2021-05-19 23:47:38.100654,
+ - To exchange: 1000 CZK,
+ - To get:      47.95 usd,
+ - rate: 0.04795, last update: Wed, 19 May 2021 00:00:01 +0000, next update: Thu, 20 May 2021 00:00:01 +0000
+
+LOG:2021-05-19 23:48:16.644700,
+ - To exchange: 100.10 CZK,
+ - To get:      3.928925 EUR,
+ - rate: 0.03925, last update: Wed, 19 May 2021 00:00:01 +0000, next update: Thu, 20 May 2021 00:00:01 +0000
+
+LOG:2021-06-29 18:46:23.473059,
+ - To exchange: 500 CZK,
+ - To get:      19.59 EUR,
+ - rate: 0.03918, last update: Tue, 29 Jun 2021 00:00:02 +0000, next update: Wed, 30 Jun 2021 00:00:02 +0000
+
+LOG:2021-06-29 19:45:25.913085,
+ - To exchange: 50 USD,
+ - To get:      1069.98 CZK,
+ - rate: 21.3996, last update: Tue, 29 Jun 2021 00:00:02 +0000, next update: Wed, 30 Jun 2021 00:00:02 +0000
+
+LOG:2021-06-29 20:18:15.913181,
+ - To exchange: 1000 CZK,
+ - To get:      39.18 EUR,
+ - rate: 0.03918, last update: Tue, 29 Jun 2021 00:00:02 +0000, next update: Wed, 30 Jun 2021 00:00:02 +0000
